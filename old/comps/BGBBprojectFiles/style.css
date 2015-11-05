@@ -1,0 +1,23 @@
+body {
+
+    font-family: verdana;
+    font-size: 10px;
+
+    }
+
+h3 {
+
+    font-size: 16px;
+
+    }
+
+p { font-size: 10px}
+
+tr {font-size: 10px}
+
+td {font-size: 10px}
+
+a:link {color: #ccc;text-decoration:none;}      /* unvisited link */
+a:visited {color: #cccccc;text-decoration:none;}  /* visited link */
+a:hover {color: #999999;}  /* mouse over link */
+a:active {color: #cccccc;}  /* selected link */
